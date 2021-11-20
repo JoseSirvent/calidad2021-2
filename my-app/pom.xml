@@ -6,7 +6,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.anahuac.calidad.app</groupId>
-	<artifactId>my-app-jose-s</artifactId>
+	<artifactId>my-app</artifactId>
 	<version>1.0-SNAPSHOT</version>
 
 	<name>my-app</name>
